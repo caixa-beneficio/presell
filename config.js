@@ -1,3 +1,3 @@
 const CONFIG = {
-  url: "https://caixa-gov-oficial.github.io/indenizapresell/"
+  url: "https://caixa-ofc.github.io/indenizapresell/"
 };
